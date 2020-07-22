@@ -1,3 +1,6 @@
+const path = require('path');
+
+
 exports.printMsg = function() {
-    console.log("Hello");
+    console.log(path);
   }
